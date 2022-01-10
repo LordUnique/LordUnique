@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordUnique
 - 👀 I’m interested in Game Design and Programming
-- 🌱 I’m currently learning C#, RenPy Engine and Python
+- 🌱 I’m currently learning C#, Unity, RenPy Engine and Python
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me https://www.linkedin.com/in/omer-faruk-suphani/
 
