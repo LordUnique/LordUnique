@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Design and Programming
 - 🌱 I’m currently learning C#, RenPy Engine and Python
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/omer-faruk-suphani/
 
 <!---
 LordUnique/LordUnique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
